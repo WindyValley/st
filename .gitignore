@@ -2,5 +2,5 @@
 *.diff
 *.rej
 *.orig
-config.def.h
+config.h
 st
