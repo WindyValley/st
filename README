@@ -6,7 +6,7 @@ dracula-0.8.2
 font2-20190416-ba72400
 scrollback-20190331-21367a0
 
-依赖于渲染管理器xcompmgr或compton，字体DejaVu Sans Mono、NerdFonts、PowerlineFont
+依赖于渲染管理器xcompmgr或compton，字体DejaVu Sans Mono、NerdFonts、PowerlineFont、wqy-microhei
 
 官方原文件如下：
 
